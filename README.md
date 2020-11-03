@@ -1,0 +1,1 @@
+# afegeix-nou-usuari-local
