@@ -1,3 +1,4 @@
+#https://github.com/Mariogg1/afegeix-nou-usuari-local
 #!/bin/bash
 
 # Make sure the script is being executed with superuser privileges.
